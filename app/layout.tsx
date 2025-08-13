@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pripo",
-  description: "We are building the future in Pripo Technology",
+  title: "Pripo Techlabs",
+  description: "We are building the future in Pripo Techlabs",
 };
 
 export default function RootLayout({
